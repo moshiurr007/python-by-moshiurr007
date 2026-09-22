@@ -1,6 +1,6 @@
 ### python by moshiurr007 --> intermediate_level ###
 
-# quick sort algorithm implementation #
+# quick sort algorithm #
 
 def quick_sort(arr):
     if len(arr) <= 1:
