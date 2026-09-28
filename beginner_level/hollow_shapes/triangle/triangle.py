@@ -15,27 +15,22 @@ def triangle(n):
         if i == 1: # first line
             result += leading_space + "*\n"
         elif i == n: # last line
-            result += "* "*n + "\n"
+            result += "* "*n
         else: # any of the middle lines
             space_between = " "*( 2*i - 3 )
             result += leading_space + "*" + space_between + "*\n"
 
     return result
 
-print(triangle(50))
+print(triangle(5))
 
 
 """ Output :
 
-         *
-        * *
-       *   *
-      *     *
-     *       *
-    *         *
-   *           *
-  *             *
- *               *
-* * * * * * * * * * 
+    *
+   * *
+  *   *
+ *     *
+* * * * * 
 
 """
