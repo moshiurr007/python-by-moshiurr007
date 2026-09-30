@@ -21,6 +21,7 @@ def rectangle(width, height):
 
 print(rectangle(5,4))
 
+
 """ Output:
 * * * * * 
 *       *

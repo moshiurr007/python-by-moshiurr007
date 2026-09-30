@@ -1,6 +1,6 @@
 ## python-by-moshiurr007
 
-A repository of Python programs I’ve learnt, practised, and built along the way, including my own projects and various open-source resources. Organised by difficulty, with challenges and solutions for programmers to learn and improve their Python skills.
+A collection of Python programs I’ve learnt, practised, and built along the way, including my own projects and various open-source resources. Organised by difficulty, with challenges and solutions for programmers to learn and improve their Python skills.
 
 <b>Prerequisite:</b> Fundamentals of Python.
 
