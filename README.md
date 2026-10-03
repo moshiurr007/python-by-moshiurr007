@@ -7,5 +7,5 @@ A collection of Python programs I’ve learnt, practised, and built along the wa
 <b>Total Programs: 5+</b> (more coming soon inshAllah)
 
 - Beginner Level: 4
-- Intermediate Level: 2
+- Intermediate Level: 3
 - Advanced Level: (coming soon)
